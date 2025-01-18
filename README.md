@@ -1,4 +1,8 @@
-# AlpycaDevice - Python Alpaca Device Driver SDK
+# Alpaca driver for libgphoto2 cameras
+
+Provides ASCOM-Alpaca implementation of ICameraV4 for cameras [supported](http://www.gphoto.org/proj/libgphoto2/support.php) by libgphoto2 (including select Fujifilm cameras!).
+
+## Based on: AlpycaDevice - Python Alpaca Device Driver SDK
 
 ## Version 1.0.0, September 13, 2024 (ASCOM Platform 7)
 
